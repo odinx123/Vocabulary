@@ -1,0 +1,128 @@
+banquet
+in appreciation of x
+base on
+nominal  象徵性的
+may 可能、可以
+nominal fee
+file 提出(V)
+advance 進步、發展
+in advance 提前、預先
+ease 容易、減緩
+
+inventory  庫存
+recommendation  推薦、建議(N)
+reviewed
+board meeting  董事會議
+staff  員工
+supervise
+clarity
+mission
+utility costs
+energy
+efficient
+headquarters
+be about 50% lower
+convention
+employee 雇員、員工
+employer 雇主
+employ 聘僱
+employment 工作、職業
+out of employment 失業
+be in employment 就業
+procedures
+transferred
+contractor
+solid
+reputation
+Limited Company  縮寫是「Ltd. 有限公司
+tight deadlines
+
+evolution 演化
+avail 有用
+availability
+simultaneously  同時地
+utilization  使用率
+category  類別
+loosely  寬鬆地
+tightly  緊地
+conflicts 衝突
+take place 發生
+dedicated to  致力於
+Reliability  可靠性
+glitch 故障
+intentions 意圖
+financial 金融的、財政
+sense 感覺、道理
+financial sense 財務意識
+revenue 收入
+
+justified 有道理的
+weird  詭異的
+Destiny  命運
+emerge  出現、產生
+ridiculous  荒謬的、可笑的
+dedicated 專用的
+critical  關鍵的、批評的
+immediately critical 立即至關重要
+embed  嵌入式、嵌入
+compression  壓縮
+demand  要求
+consumption  消耗
+in common  共同點
+outline 大綱
+permanent  永久的、永恆的 adj
+abstracts  摘要
+abstract 抽象的(adj)、提取(V)、摘要(N)
+processes  流程
+charge 收費、費用
+in charge of  負責
+behalf  代表
+
+conflict  衝突
+atomic  原子
+Atomicity  原子性
+contention  爭論;紛爭;口角
+vial  小瓶子
+rage  憤怒
+gauntlet  長手套、挑戰
+puppet  木偶
+abort  中止 (中間停下)
+terminate  終止  (結束停下)
+explicit  明確的
+via  透過
+acquire  獲得、取得、買進、兼併
+fundamental  基本的
+proper  恰當的
+categorized  分類
+examine  檢查
+utilize  利用
+procedures  程式、步驟
+usage  用法、運用
+nested  嵌套的
+fixed  固定的
+fix  修理、使固定
+reached   到達、達到
+Throughout  從始至終
+Consequently  最後、所以、於是
+sort  種類、排序
+lifespan   壽命
+dialog  對話
+affect   影響
+
+reliable  可靠的
+as well as  和、以及、接n或ving
+field   場
+field trip  實地考察、校外教學
+error-free  沒有錯誤的、無缺陷的
+enhance  增進、提高
+monolithic  龐大的
+resident  居民、常駐
+overhead  開銷、在頭頂上的
+within   在...之內
+toggle  切換
+port  移植(V)、埠、港口、端口
+porting   移植
+untouch  不碰
+untouched  未受影響的
+fatal  致命的、有害
+
