@@ -5,7 +5,7 @@ import page
 class App(tk.Tk):
     def __init__(self, word_dic):
         tk.Tk.__init__(self)
-        self.geometry('450x420+550+100')
+        # self.geometry('450x420+550+100')
         self._frame = None
         self.words_dictionary = word_dic  # constant
         self._word_dic_number = len(word_dic)  # constant
