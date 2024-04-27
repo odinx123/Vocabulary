@@ -95,7 +95,9 @@ fundamental  基本的
 proper  恰當的
 categorized  分類
 examine  檢查
-utilize  利用
+utilize  利用(V)
+utilization  使用率(N)
+utility  公共事業
 procedures  程式、步驟
 usage  用法、運用
 nested  嵌套的
@@ -125,4 +127,43 @@ porting   移植
 untouch  不碰
 untouched  未受影響的
 fatal  致命的、有害
+
+approach   方法、逼近
+passive   被動的、消極
+active  積極的
+entity  實體
+segment  部分、段
+segmental  分段的
+segmentation  分割
+initialize  初始化(V)
+initialized  已初始化
+argument  爭論、理由，論據(引數)
+patch  補、補丁
+dispatch  派遣、調度
+register  登記、註冊、名冊、暫存器
+at all time  隨時、每時每刻
+expire  到期、過期、斷氣
+bound  限制、邊界
+sufficient  充足的
+among  在...之中
+restore  恢復、放回
+store  店鋪、儲存
+intervene  干涉、介入
+refer  參考、參照
+
+so far 到目前為止
+pend   待定
+pending  待辦的
+fragmentation  碎片化
+query  詢問、查詢
+virtually 
+fine-tune
+provision 
+legacy 
+transitioning  過度
+mission  使命
+variety  種類
+embeddings  嵌入
+decomposed  分解
+rule of thumb  經驗法則
 
